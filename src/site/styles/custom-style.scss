@@ -1,13 +1,14 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+.cm-s-obsidian {
+  max-width: 900px;
+  margin: 0 auto;
 }
+```
+
+---
+
+### ✅ Step 11 — Private Karo (Optional)
+
+Vercel pe jaao:
+```
+Project → Settings → Deployment Protection
+→ "Vercel Authentication" ON karo
